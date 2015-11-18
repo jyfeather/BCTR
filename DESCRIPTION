@@ -1,0 +1,12 @@
+Package: BCTR
+Type: Package
+Title: Brain Connectivity Toolbox in R
+Version: 0.1
+Date: 2015-11-17
+Author: Yan Jin
+Maintainer: Yan Jin <jyfeather@gmail.com>
+Description: The Brain Connectivity Toolbox in R (BCTR) contains a large
+    selection of complex network constructions, measurements, and comparisons in R
+License: MIT
+LazyData: TRUE
+RoxygenNote: 5.0.1
