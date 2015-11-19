@@ -1,8 +1,13 @@
-#' reliability study
+#' test retest reliability study
 #'
 #' @param
 #' @return
 #'
-reliability <- function() {
+#' @description
+#'  A vector of measurements in test,
+#' @references https://en.wikipedia.org/wiki/Repeatability
+#'
+#'
+reliability_test_retest <- function() {
 
 }
